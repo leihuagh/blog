@@ -1,6 +1,7 @@
 ---
 title: Working with Images
 tags: hexo
+categories: tutorials
 date: 2017-03-17 12:47:08
 ---
 

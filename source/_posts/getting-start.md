@@ -1,7 +1,8 @@
 ---
 title: Getting Start with Hexo Blog
 date: 2017-03-17 9:56:02
-tag: hexo
+tags: hexo
+categories: tutorials
 ---
 
 ### Requirements
